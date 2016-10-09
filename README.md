@@ -5,5 +5,5 @@ while grading the work of JavaScript beginners.
 
 #### Node.js
 
-* [Convetions](node.js/conventions.md)
+* [Conventions](node.js/conventions.md)
 * [Linting](node.json/linting.md)
